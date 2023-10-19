@@ -214,7 +214,6 @@ body.light .abot:hover {
     display: flex;
     flex-direction: row;
     align-self: center;
-    margin-left: 150px;
 }
 
 .rarity > li {
